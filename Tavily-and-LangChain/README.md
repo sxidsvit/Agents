@@ -121,3 +121,9 @@ This project is licensed under the ISC License. See the `package.json` for detai
 - [LangChain](https://js.langchain.com) for the agent framework.
 - [OpenRouter](https://openrouter.ai) for providing access to language models.
 - [Tavily](https://tavily.com) for search capabilities.
+
+## Contact:
+
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
