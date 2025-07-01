@@ -1,4 +1,5 @@
 [Generative AI Trends Agent](./Tavily-and-LangChain/README.md)
+[Neon and AgentKit](./neon-and-agentkit/README.md)
 
 ## Contact:
 
